@@ -1,3 +1,6 @@
+<div align="center>
+<img src="zerotwo.png" />
+</div> 
 ## 📊 GitHub Activity 📊
  
 <p align="center">
