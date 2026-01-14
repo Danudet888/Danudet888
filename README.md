@@ -1,5 +1,5 @@
-<div align="center>
-<img src="zerotwo.png" />
+<div align="center">
+<img src="zerotwo.png" width="100%" />
 </div> 
 ## 📊 GitHub Activity 📊
  
